@@ -1,4 +1,12 @@
 # Trends_BigData_Group17
-Trends Marketplace project for Big Data Analytics by group 17 in the year 2022
+Trends Marketplace project for MSBA6330 Big Data Analytics by group 17 in the year 2022
+
+Team Member: Krishnamoorthy Ramanath, Shravan Panneer, Francesca Rivera, Ye Yang, Xuanyu ZHang
+
+
+Abstract
+These days, it is very common for an organization to depend on predictive models to solve a few of their business challenges. Among all of those predictions, forecasting time-series data is one of the most important parts. However, building predictive models, tuning those models and improving model performance is complicated and time-consuming. In this project we will introduce a time-saving, high-efficiency and user-friendly tool that is used to predict time-series dataset : Amazon Forecast. We will use a dataset that meets both volume and velocity aspects of big data to introduce this tool, this compared with the performance of models built by ourselves potentially on a subset of this same dataset. We will then show the comparative advantages of this tool.
+
+
 
 Link to Video - https://youtu.be/VUiDEhUMl3c
